@@ -42,4 +42,7 @@ The diffrence:0.0147 <br>
 ![newplot (20)](https://user-images.githubusercontent.com/53708521/229225223-378448b9-03b8-49f2-a3bf-3bfa4b43a83a.png)
 
 ## Method 3 - SGD With Weighted Samples
-![newplot (21)](https://user-images.githubusercontent.com/53708521/229225350-58411d5e-e1fb-4349-ae31-ba651824ef2e.png)
+![newplot (21)](https://user-images.githubusercontent.com/53708521/229225350-58411d5e-e1fb-4349-ae31-ba651824ef2e.png)<br>
+
+For more information see the 
+
