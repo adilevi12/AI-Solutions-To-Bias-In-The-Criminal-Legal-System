@@ -44,5 +44,4 @@ The diffrence:0.0147 <br>
 ## Method 3 - SGD With Weighted Samples
 ![newplot (21)](https://user-images.githubusercontent.com/53708521/229225350-58411d5e-e1fb-4349-ae31-ba651824ef2e.png)<br>
 
-For more information see the ADM In The Criminal Legal System, Fairness & AI Solutions To Bias.pdf
-
+For more information see the [ADM In The Criminal Legal System, Fairness & AI Solutions To Bias](https://github.com/adilevi12/AI-Solutions-To-Bias-In-The-Criminal-Legal-System/blob/ffce096fff120e3c12d15bedee7868054009e3b6/ADM%20In%20The%20Criminal%20Legal%20System,%20Fairness%20&%20AI%20Solutions%20To%20Bias.pdf)
